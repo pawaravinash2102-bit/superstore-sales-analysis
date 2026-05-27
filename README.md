@@ -27,3 +27,7 @@ Analyze sales, profit, quantity, category-wise performance, and regional trends 
 - Excel Analysis
 - SQL Queries
 - Power BI Dashboard
+
+## Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard-preview.png)
